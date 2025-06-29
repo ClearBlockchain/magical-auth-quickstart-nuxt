@@ -1,0 +1,24 @@
+{
+  "name": "magical-auth-quickstart-nuxt",
+  "version": "1.0.0",
+  "description": "Quick start tutorial for secure phone authentication with Nuxt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.11.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.3.0",
+    "glide-web-client-sdk": "^3.0.0",
+    "glide-sdk": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
+  }
+}
